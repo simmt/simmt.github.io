@@ -1,3 +1,5 @@
+![kevin](https://opic.osu.edu/simmt.1?aspect=p&width=300)
+
 ## Welcome! 
 
 Thank you for visiting my website! My name is Kevin Simmt and I am a Ph.D. Candidate in Political Science at The Ohio State University, specializing in Political Economy, Canadian Politics, and Quantitative Methods. 
