@@ -12,12 +12,24 @@ I am a proud citizen of Alberta, Canada. Outside of Political Science, I am inte
 
 You can find my cv [here](simmt_cv.pdf).
 
+<br>
+
 ## Teaching
 
-Information on courses I have taught can be found below:
+In the classroom, I teach courses on the Canadian Political System and Comparative Politics. Additionally, I have tutored students in research design and quantitative methods; moreover, both topics loom large as components in all my courses.
+
+I strive to teach complex ideas in simple terms, whether evaluating a quantitative method or arguing theories of distributive justice. Moreover, I seek to tie class material to the lives of my students, such that coursework lends itself to the aims of their own lives. 
+
+At every corner, my classes incorporate original “games” to get students playing directly with the theoretical ideas at stake. This includes a game called Eschaton (a computer simulation, modelling the outcomes of student’s political decisions as they rule over their own country), hosting Model Parliaments, and debating what makes Canadian the lyrics of Gordon Lightfoot and Leonard Cohen -- amongst many other interactive ventures. 
+
+My syllabi:
 
 + [Canadian Politics (POLITSC 4270)](Canadian_Politics_Syllabus.pdf)
 
 + [Comparative Politics (POLITSC 1200)](Comparative_Politics_Simmt_Fall18.pdf)
+
+My interactive course programming:
+
+<br>
 
 ## Research
