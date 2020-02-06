@@ -11,7 +11,6 @@ In the classroom, I teach Canadian and Comparative Politics. I strive to make ma
 I am a proud citizen of Alberta, Canada. Outside of Political Science, I am interested in literature, hockey and bourbon. Love is blind and so is my devotion to the Edmonton Oilers. Of late, I have been exploring the small towns and countryside of the American Midwest. 
 
 You can find my cv [here](simmt_cv.pdf).
-
 <br>
 
 ## Teaching
@@ -29,7 +28,20 @@ My syllabi:
 + [Comparative Politics (POLITSC 1200)](Comparative_Politics_Simmt_Fall18.pdf)
 
 My interactive course programming:
-
 <br>
 
 ## Research
+
+Most broadly, I am interested in the roles that governments take in modern market economies. More specifically, I study the regime-specific challenges that governments face when attempting to implement optimal tax policy. Democracies, particularly, face many traps when trying to implement tax policy, such as an efficient tax-mix. 
+
+My work uses quantitative methods to assess theories of political economy; moreover, I engage my theoretical work with studies of optimal public policy and institutional design in order to consider what changes democracies might enact for improved operations. My most recent work seeks to identify causal effects using difference-in-difference and regression discontinuity designs. 
+
+Projects
+
++ Thesis Dissertation. A Theory of Planned Inefficiency: the Efficiency of Inefficient State-Owned Enterprise -- a Story in the Fallacy of Composition
+
++ Thesis Chapter. A Theory of Taxation: Democracy’s Informality Trap
+
++ Thesis Chapter. Ratless Alberta: a Natural Experiment on the Construction of Popular Trust in Government
+
++ Working Paper. On Planners and Participants: the Social Construction of Efficient Market Economies
