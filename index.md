@@ -12,8 +12,8 @@ In my spare time you can find me cheering for my beloved Edmonton Oilers and exp
 
 Information on courses I have taught can be found below:
 
-+ [Canadian Politics](Canadian_Politics_Syllabus.pdf)
++ [Canadian Politics (POLITSC 4270)](Canadian_Politics_Syllabus.pdf)
 
-+ [Comparative Politics](Comparative_Politics_Simmt_Fall18.pdf)
++ [Comparative Politics (POLITSC 1200)](Comparative_Politics_Simmt_Fall18.pdf)
 
 ### Research
