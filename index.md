@@ -10,7 +10,7 @@ In the classroom, I teach Canadian and Comparative Politics. I strive to make ma
 
 I am a proud citizen of Alberta, Canada. Outside of Political Science, I am interested in literature, hockey and bourbon. Love is blind and so is my devotion to the Edmonton Oilers. Of late, I have been exploring the small towns and countryside of the American Midwest. 
 
-You can find my cv [here](simmt_cv.pdf).
+You can find my cv [here](kevin_resume.pdf).
 <br>
 
 ## Teaching
