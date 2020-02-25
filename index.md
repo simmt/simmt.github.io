@@ -28,6 +28,11 @@ My syllabi:
 + [Comparative Politics (POLITSC 1200)](Comparative_Politics_Simmt_Fall18.pdf)
 
 My interactive course programming:
+
++ Eschaton Game-Play instructions can be found [here](Eschaton_Assignment.pdf)
+
++ Model Parliament instructions can be found [here](Model_Parliament_Assignment.pdf)
+
 <br>
 
 ## Research
