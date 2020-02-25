@@ -64,7 +64,7 @@ Herein I explore the seeming paradox that the government might make a part of th
 I consider how the Alberta and Ontario governments took opposite paths towards alcohol retailing after reaching a critical juncture in 1994. While Alberta privatized, the Ontario government sought to modernize their operations while retaining their state-ownership. The Ontario government, despite entrenched firm-level inefficiencies in their retail operations, was nonetheless able to increase the economy’s efficiency as a whole. This occurred through monopolistic rent extraction which,
 despite its “narrow" inefficiencies, served to offset the even greater inefficiencies of raising public revenues through any alternative mode of taxation. Ironically, one could make the economy as a whole more efficient by intentionally making one of its parts more inefficient. In concluding the paper, I caution against assumptions that aggregating microeconomic findings will automatically lead to a parallel macroeconomic outcome: that is, I note, “a fallacy of composition.”
 
-+ [Working Paper](Simmt_Writting_Sample_I.pdf). On Planners and Participants: the Social Construction of Efficient Market Economies
++ [Working Paper](Simmt_Writting_Sample_II.pdf). On Planners and Participants: the Social Construction of Efficient Market Economies
 
 Any market economy, let alone an efficient one, has institutional and ideational prerequisites. Much political economy (including my own) takes foregranted the former prerequistes in order to focus on the later. In this book project, however, I consider the belief systems that citizens must hold for efficient markets to develop. 
 
