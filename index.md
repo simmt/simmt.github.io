@@ -45,7 +45,11 @@ Projects
 
 + Thesis Dissertation. A Theory of Planned Inefficiency: the Efficiency of Inefficient State-Owned Enterprise -- a Story in the Fallacy of Composition
 
-+ Thesis Chapter. A Theory of Taxation: Democracy’s Informality Trap
+Oftentimes, the political economy of taxation focuses on conflicts between income groups in order to account for variations in tax-levels and tax-progressivity. This focus, however, not only overlooks other salient cleavages, but is unable to explain aspects of taxation, such as tax-mix, for which income-based groups provide neither the most salient, nor generalizable, impetuous for conflict.
+
+In my dissertation I write a series of papers focusing on the regime-specific challenges governments face when producing and implementing tax policy. In these papers I conceptually draw on selectorate theory and quantitatively estimate the causal effect of regime type on various aspects of tax policy through regressiondiscontinuity and difference-in-difference designs built around exogenous shocks to existing regimes.
+
++ Thesis Chapter. A Theory of Taxation: the Elasticity Wars & Democracy's Informality Trap
 
 I argue that optimal tax-mix results from “planned inefficiency,” whereby governments intentionally tax the economy’s most “inelastic” elements (i.e., economic behaviours difficult to change). I then use selectorate theory to explain why democracy’s struggle to implement efficient tax policy as they seek to appease broad swaths of the public with taxes on those behaviours for which the coalition’s members are “elastic” (i.e., economic behaviours easily changed). 
 
