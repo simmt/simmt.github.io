@@ -43,7 +43,7 @@ My work uses quantitative methods to assess theories of political economy; moreo
 
 You can find my plan for future research [here](Simmt_Research_Plan.pdf). 
 
-Projects
+# Projects
 
 + Thesis Dissertation. A Theory of Planned Inefficiency
 
