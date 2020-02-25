@@ -43,7 +43,7 @@ My work uses quantitative methods to assess theories of political economy; moreo
 
 Projects
 
-+ Thesis Dissertation. A Theory of Planned Inefficiency: the Efficiency of Inefficient State-Owned Enterprise -- a Story in the Fallacy of Composition
++ Thesis Dissertation. A Theory of Planned Inefficiency
 
 Oftentimes, the political economy of taxation focuses on conflicts between income groups in order to account for variations in tax-levels and tax-progressivity. This focus, however, not only overlooks other salient cleavages, but is unable to explain aspects of taxation, such as tax-mix, for which income-based groups provide neither the most salient, nor generalizable, impetuous for conflict.
 
@@ -55,6 +55,24 @@ I argue that optimal tax-mix results from “planned inefficiency,” whereby go
 
 I test my theory with an international dataset on taxation and imputations of informality; I find democracies use high income taxation in exactly those situations where it is least efficient: where the informal sector makes up the bulk of a country’s economic production and employment
 
-+ Thesis Chapter. Ratless Alberta: a Natural Experiment on the Construction of Popular Trust in Government
-
 + Working Paper. On Planners and Participants: the Social Construction of Efficient Market Economies
+
+Any market economy, let alone an efficient one, has institutional and ideational prerequisites. Much political economy (including my own) takes foregranted the former prerequistes in order to focus on the later. In this book project, however, I consider the belief systems that citizens must hold for efficient markets to develop. 
+
+The opening chapter establishes a taxonomy of the ideas required to underlay any given market; moreover, it demonstrates how said ideas arise from the institutional prerequisites of the market. While the taxonomy (and undergirding theory) is initially described in the opening chapter, the book then aims at testing the theory's primary theorectical consequences.
+
++ Working Paper. Ratless Alberta: a Natural Experiment on the Construction of Popular Trust in Government
+
+In 1960, the Government of Alberta established a rat-patrol zone, encompassing all land within 17 miles of the Saskatchewan border, unto its northern cut-off (set at Cold Lake). Using pollingstation data from provincial and federal elections, I use a Regression Discontinuity Design (RDD) to consider how citizen interaction with civil servants effects perceptions of government competence.
+
+I am currently awaiting time in Alberta to build datasets from archival data. For instance, using historical Elections Alberta documents containing data at the polling-station level, I can explore how direct exposure to the Alberta rat-elimination program in the 1960s (i.e., those voters living within 17 miles of the Saskatchewan border) altered voter’s attitudes towards government competence and, potentially, spending (a regression discontinuity design).
+
++ Working Paper. A Theory of Radical Kindness: Building a Concept with Measurable Implications
+
+Theories that exist beyond measurement often struggle to gain prominence in the social sciences. After all, without variables to measure, how can a theory be tested? I note that theories of radical kindness have received such treatment, in addition to prejudice of its blind optimism.
+
+Crucially, radical kindness is just kindness unless it brings about the change required for a just society to arise. I define a proxy variable of radical kindness that measures the dollar effect of decency in redressing “institutional gaps.” An institutional gap occurs when establishing a set of rules to fix one problem requires opening vulnerability to yet another. Were people’s decency to “cover” the gap, we can measure the dollar effect.
+
+Through my redefinition, I reposition theories of radical kindness such that (i) they are not blindly optimistic, but merely point to where institutions will not be able to get us out of our problems; and (ii) becomes less "demanding" as a dichotomous measure (i.e., that our society of sinners must become saints), but based more in a variable of graduation (e.g., the dollar value of a society becoming marginally more “kind”). The paper illustrates its theory with an example of an “institutional gap” and its costs.
+
+International patent law is used to incentivize innovation, but at the cost of enabling monopolist pricing, which endows the economy with yet other inefficiencies. In a scenario of radical kindness, whereby monopolists price at a competitive market level (where marginal returns are zero), based on a sense of decency, provides a measurable dollar value of the effects of radical kindness, via the dollar value of reduced inefficiencies occurring in the economy as a result.
