@@ -29,7 +29,7 @@ My syllabi:
 
 My interactive course programming:
 
-+ Eschaton Game-Play instructions can be found [here](Eschaton_Assignment.pdf)
++ Eschaton Game-Play instructions for the [first round](Eschaton_Assignment.pdf) and all [upper rounds](Canadian_Eschaton_Upper_Rounds.pdf) 
 
 + Model Parliament instructions can be found [here](Model_Parliament_Assignment.pdf)
 
