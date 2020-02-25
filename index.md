@@ -41,6 +41,8 @@ Most broadly, I am interested in the roles that governments take in modern marke
 
 My work uses quantitative methods to assess theories of political economy; moreover, I engage my theoretical work with studies of optimal public policy and institutional design in order to consider what changes democracies might enact for improved operations. My most recent work seeks to identify causal effects using difference-in-difference and regression discontinuity designs. 
 
+You can find my plan for future research [here](Simmt_Research_Plan.pdf). 
+
 Projects
 
 + Thesis Dissertation. A Theory of Planned Inefficiency
@@ -49,13 +51,13 @@ Oftentimes, the political economy of taxation focuses on conflicts between incom
 
 In my dissertation I write a series of papers focusing on the regime-specific challenges governments face when producing and implementing tax policy. In these papers I conceptually draw on selectorate theory and quantitatively estimate the causal effect of regime type on various aspects of tax policy through regressiondiscontinuity and difference-in-difference designs built around exogenous shocks to existing regimes.
 
-+ Thesis Chapter. A Theory of Taxation: the Elasticity Wars & Democracy's Informality Trap
++ [Thesis Chapter](Simmt_Writting_Sample.pdf). A Theory of Taxation: the Elasticity Wars & Democracy's Informality Trap
 
 I argue that optimal tax-mix results from “planned inefficiency,” whereby governments intentionally tax the economy’s most “inelastic” elements (i.e., economic behaviours difficult to change). I then use selectorate theory to explain why democracy’s struggle to implement efficient tax policy as they seek to appease broad swaths of the public with taxes on those behaviours for which the coalition’s members are “elastic” (i.e., economic behaviours easily changed). 
 
 I test my theory with an international dataset on taxation and imputations of informality; I find democracies use high income taxation in exactly those situations where it is least efficient: where the informal sector makes up the bulk of a country’s economic production and employment
 
-+ Working Paper. On Planners and Participants: the Social Construction of Efficient Market Economies
++ [Working Paper](Simmt_Writting_Sample_II.pdf). On Planners and Participants: the Social Construction of Efficient Market Economies
 
 Any market economy, let alone an efficient one, has institutional and ideational prerequisites. Much political economy (including my own) takes foregranted the former prerequistes in order to focus on the later. In this book project, however, I consider the belief systems that citizens must hold for efficient markets to develop. 
 
