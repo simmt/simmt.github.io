@@ -55,9 +55,16 @@ In my dissertation I write a series of papers focusing on the regime-specific ch
 
 I argue that optimal tax-mix results from “planned inefficiency,” whereby governments intentionally tax the economy’s most “inelastic” elements (i.e., economic behaviours difficult to change). I then use selectorate theory to explain why democracy’s struggle to implement efficient tax policy as they seek to appease broad swaths of the public with taxes on those behaviours for which the coalition’s members are “elastic” (i.e., economic behaviours easily changed). 
 
-I test my theory with an international dataset on taxation and imputations of informality; I find democracies use high income taxation in exactly those situations where it is least efficient: where the informal sector makes up the bulk of a country’s economic production and employment
+I test my theory with an international dataset on taxation and imputations of informality; I find democracies use high income taxation in exactly those situations where it is least efficient: where the informal sector makes up the bulk of a country’s economic production and employment. 
 
-+ [Working Paper](Simmt_Writting_Sample_II.pdf). On Planners and Participants: the Social Construction of Efficient Market Economies
++ [Thesis Chapter](Simmt_Writting_Sample_I.pdf). The Efficiency of Inefficient State-Owned Enterprise: Comparing Ontario & Alberta’s Approaches to Liquor Retail
+
+Herein I explore the seeming paradox that the government might make a part of the economy more inefficient so as to make the economy as a whole more efficient. I develop a theory of planned inefficiency in order to explain how governments might do well to tax inelastic sectors of the economy (i.e., those transactions that are relatively unaffected by higher tax rates), thereby heightening their inefficiency, so as to relieve tax burden upon sectors that react more elastically (i.e., those transactions that would shrink drastically upon higher taxation). I coined the strategy’s name “planned inefficiency.” 
+
+I consider how the Alberta and Ontario governments took opposite paths towards alcohol retailing after reaching a critical juncture in 1994. While Alberta privatized, the Ontario government sought to modernize their operations while retaining their state-ownership. The Ontario government, despite entrenched firm-level inefficiencies in their retail operations, was nonetheless able to increase the economy’s efficiency as a whole. This occurred through monopolistic rent extraction which,
+despite its “narrow" inefficiencies, served to offset the even greater inefficiencies of raising public revenues through any alternative mode of taxation. Ironically, one could make the economy as a whole more efficient by intentionally making one of its parts more inefficient. In concluding the paper, I caution against assumptions that aggregating microeconomic findings will automatically lead to a parallel macroeconomic outcome: that is, I note, “a fallacy of composition.”
+
++ [Working Paper](Simmt_Writting_Sample_I.pdf). On Planners and Participants: the Social Construction of Efficient Market Economies
 
 Any market economy, let alone an efficient one, has institutional and ideational prerequisites. Much political economy (including my own) takes foregranted the former prerequistes in order to focus on the later. In this book project, however, I consider the belief systems that citizens must hold for efficient markets to develop. 
 
