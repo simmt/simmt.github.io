@@ -45,38 +45,38 @@ You can find my plan for future research [here](Simmt_Research_Plan.pdf).
 
 ## Projects
 
-+ Thesis Dissertation. A Theory of Planned Inefficiency
++ Thesis Dissertation. *A Theory of Planned Inefficiency*
 
 Oftentimes, the political economy of taxation focuses on conflicts between income groups in order to account for variations in tax-levels and tax-progressivity. This focus, however, not only overlooks other salient cleavages, but is unable to explain aspects of taxation, such as tax-mix, for which income-based groups provide neither the most salient, nor generalizable, impetuous for conflict.
 
 In my dissertation I write a series of papers focusing on the regime-specific challenges governments face when producing and implementing tax policy. In these papers I conceptually draw on selectorate theory and quantitatively estimate the causal effect of regime type on various aspects of tax policy through regressiondiscontinuity and difference-in-difference designs built around exogenous shocks to existing regimes.
 
-+ [Thesis Chapter](Simmt_Writting_Sample.pdf). A Theory of Taxation: the Elasticity Wars & Democracy's Informality Trap
++ [Thesis Chapter](Simmt_Writting_Sample.pdf). *A Theory of Taxation: the Elasticity Wars & Democracy's Informality Trap*
 
 I argue that optimal tax-mix results from “planned inefficiency,” whereby governments intentionally tax the economy’s most “inelastic” elements (i.e., economic behaviours difficult to change). I then use selectorate theory to explain why democracy’s struggle to implement efficient tax policy as they seek to appease broad swaths of the public with taxes on those behaviours for which the coalition’s members are “elastic” (i.e., economic behaviours easily changed). 
 
 I test my theory with an international dataset on taxation and imputations of informality; I find democracies use high income taxation in exactly those situations where it is least efficient: where the informal sector makes up the bulk of a country’s economic production and employment. 
 
-+ [Thesis Chapter](Simmt_Writting_Sample_I.pdf). The Efficiency of Inefficient State-Owned Enterprise: Comparing Ontario & Alberta’s Approaches to Liquor Retail
++ [Thesis Chapter](Simmt_Writting_Sample_I.pdf). *The Efficiency of Inefficient State-Owned Enterprise: Comparing Ontario & Alberta’s Approaches to Liquor Retail*
 
 Herein I explore the seeming paradox that the government might make a part of the economy more inefficient so as to make the economy as a whole more efficient. I develop a theory of planned inefficiency in order to explain how governments might do well to tax inelastic sectors of the economy (i.e., those transactions that are relatively unaffected by higher tax rates), thereby heightening their inefficiency, so as to relieve tax burden upon sectors that react more elastically (i.e., those transactions that would shrink drastically upon higher taxation). I coined the strategy’s name “planned inefficiency.” 
 
 I consider how the Alberta and Ontario governments took opposite paths towards alcohol retailing after reaching a critical juncture in 1994. While Alberta privatized, the Ontario government sought to modernize their operations while retaining their state-ownership. The Ontario government, despite entrenched firm-level inefficiencies in their retail operations, was nonetheless able to increase the economy’s efficiency as a whole. This occurred through monopolistic rent extraction which,
 despite its “narrow" inefficiencies, served to offset the even greater inefficiencies of raising public revenues through any alternative mode of taxation. Ironically, one could make the economy as a whole more efficient by intentionally making one of its parts more inefficient. In concluding the paper, I caution against assumptions that aggregating microeconomic findings will automatically lead to a parallel macroeconomic outcome: that is, I note, “a fallacy of composition.”
 
-+ [Working Paper](Simmt_Writting_Sample_II.pdf). On Planners and Participants: the Social Construction of Efficient Market Economies
++ [Working Paper](Simmt_Writting_Sample_II.pdf). *On Planners and Participants: the Social Construction of Efficient Market Economies*
 
 Any market economy, let alone an efficient one, has institutional and ideational prerequisites. Much political economy (including my own) takes foregranted the former prerequistes in order to focus on the later. In this book project, however, I consider the belief systems that citizens must hold for efficient markets to develop. 
 
 The opening chapter establishes a taxonomy of the ideas required to underlay any given market; moreover, it demonstrates how said ideas arise from the institutional prerequisites of the market. While the taxonomy (and undergirding theory) is initially described in the opening chapter, the book then aims at testing the theory's primary theorectical consequences.
 
-+ Working Paper. Ratless Alberta: a Natural Experiment on the Construction of Popular Trust in Government
++ Working Paper. *Ratless Alberta: a Natural Experiment on the Construction of Popular Trust in Government*
 
 In 1960, the Government of Alberta established a rat-patrol zone, encompassing all land within 17 miles of the Saskatchewan border, unto its northern cut-off (set at Cold Lake). Using pollingstation data from provincial and federal elections, I use a Regression Discontinuity Design (RDD) to consider how citizen interaction with civil servants effects perceptions of government competence.
 
 I am currently awaiting time in Alberta to build datasets from archival data. For instance, using historical Elections Alberta documents containing data at the polling-station level, I can explore how direct exposure to the Alberta rat-elimination program in the 1960s (i.e., those voters living within 17 miles of the Saskatchewan border) altered voter’s attitudes towards government competence and, potentially, spending (a regression discontinuity design).
 
-+ Working Paper. A Theory of Radical Kindness: Building a Concept with Measurable Implications
++ Working Paper. *A Theory of Radical Kindness: Building a Concept with Measurable Implications*
 
 Theories that exist beyond measurement often struggle to gain prominence in the social sciences. After all, without variables to measure, how can a theory be tested? I note that theories of radical kindness have received such treatment, in addition to prejudice of its blind optimism.
 
