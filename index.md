@@ -47,6 +47,10 @@ Projects
 
 + Thesis Chapter. A Theory of Taxation: Democracy’s Informality Trap
 
+I argue that optimal tax-mix results from “planned inefficiency,” whereby governments intentionally tax the economy’s most “inelastic” elements (i.e., economic behaviours difficult to change). I then use selectorate theory to explain why democracy’s struggle to implement efficient tax policy as they seek to appease broad swaths of the public with taxes on those behaviours for which the coalition’s members are “elastic” (i.e., economic behaviours easily changed). 
+
+I test my theory with an international dataset on taxation and imputations of informality; I find democracies use high income taxation in exactly those situations where it is least efficient: where the informal sector makes up the bulk of a country’s economic production and employment
+
 + Thesis Chapter. Ratless Alberta: a Natural Experiment on the Construction of Popular Trust in Government
 
 + Working Paper. On Planners and Participants: the Social Construction of Efficient Market Economies
