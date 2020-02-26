@@ -10,7 +10,7 @@ In the classroom, I teach Canadian and Comparative Politics. I strive to make ma
 
 I am a proud citizen of Alberta, Canada. Outside of Political Science, I am interested in literature, hockey and bourbon. Love is blind and so is my devotion to the Edmonton Oilers. Of late, I have been exploring the small towns and countryside of the American Midwest. 
 
-You can view my [resume](Simmt_Github_Resume.pdf) or [CV](kevin_cv-2.pdf).
+You can view my [resume](Simmt_Github_Resume.pdf) or [CV](Simmt_CV_Git.pdf).
 
 <br>
 
@@ -43,7 +43,7 @@ Most broadly, I am interested in the roles that governments take in modern marke
 
 My work uses quantitative methods to assess theories of political economy; moreover, I engage my theoretical work with studies of optimal public policy and institutional design in order to consider what changes democracies might enact for improved operations. My most recent work seeks to identify causal effects using difference-in-difference and regression discontinuity designs. 
 
-You can find my plan for future research [here](Simmt_Recommendation_Letter.pdf). 
+You can find my plan for future research [here](Simmt_Research_Statement_Git.pdf). 
 
 ## Projects
 
