@@ -14,7 +14,6 @@ You can view my [resume](Simmt_Github_Resume.pdf) or [CV](Simmt_CV_Git.pdf).
 
 <br>
 
-
 ## Teaching
 
 In the classroom, I teach courses on the Canadian Political System and Comparative Politics. Additionally, I have tutored students in research design and quantitative methods; moreover, both topics loom large as components in all my courses.
@@ -44,6 +43,8 @@ Most broadly, I am interested in the roles that governments take in modern marke
 My work uses quantitative methods to assess theories of political economy; moreover, I engage my theoretical work with studies of optimal public policy and institutional design in order to consider what changes democracies might enact for improved operations. My most recent work seeks to identify causal effects using difference-in-difference and regression discontinuity designs. 
 
 You can find my plan for future research [here](Simmt_Research_Statement_Git.pdf). 
+
+<br>
 
 ## Projects
 
