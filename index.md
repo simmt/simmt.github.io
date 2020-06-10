@@ -48,7 +48,7 @@ You can find my plan for future research [here](Simmt_Research_Statement_Git.pdf
 
 ## Projects
 
-+ Thesis Dissertation. *A Theory of Planned Inefficiency*
++ [Outline](Theory_of_Taxation__Informality___the_Democratic_Trap.pdf). Thesis Dissertation. *A Theory of Planned Inefficiency*
 
 Oftentimes, the political economy of taxation focuses on conflicts between income groups in order to account for variations in tax-levels and tax-progressivity. This focus, however, not only overlooks other salient cleavages, but is unable to explain aspects of taxation, such as tax-mix, for which income-based groups provide neither the most salient, nor generalizable, impetuous for conflict.
 
