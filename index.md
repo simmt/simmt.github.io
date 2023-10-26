@@ -1,8 +1,8 @@
 ## Welcome! 
 
-Thank you for visiting my website! 
+Thank you for visiting my website!
 
-My name is Kevin Simmt and I am a Ph.D. Candidate in Political Science at The Ohio State University, specializing in Comparative Political Economy, Canadian Politics and Quantitative Methods. 
+My name is Kevin Simmt and I am a Ph.D. graduate in Political Science at The Ohio State University (OSU), focused upon the intersection of comparative political economy, public economics and public policy. In terms of research design, I specialize on quantitative methods. 
 
 My dissertation examines the regime-specific challenges that governments face when attempting to implement optimal tax policy. My political economy research informs further research into public policy and the optimal design of democratic institutions.  
 
