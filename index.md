@@ -10,7 +10,7 @@ In the classroom, I my teaching has focused upon Comparative Politics, Research 
 
 I am a proud citizen of Alberta, Canada. Love is blind and so is my devotion to the Edmonton Oilers. (Given the team's playoff records during my lifetime, I am also proof that love can hurt.) 
 
-You can view my [CV here](Simmt_Github_Resume.pdf) or [CV](Simmt_CV_Git.pdf). 
+You can view my [CV here](Simmt_Github_CV.pdf). 
 
 <br>
 
