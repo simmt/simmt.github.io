@@ -16,11 +16,11 @@ You can view my [CV here](Simmt_Github_CV.pdf).
 
 ## Teaching
 
-I have greatly enjoyed teaching a variety of courses in Comparative Politics, Public Policy and Research Design (incl. Data Analysis). I also had the privilege to teach (six times) a course in Canadian Politics while stuyding for my Ph.D. at the Ohio State University; truly, this made extra-special being a Canadian in America. 
+I have greatly enjoyed teaching a variety of courses in Comparative Politics, Public Policy and Research Design (incl. Data Analysis). I also had the privilege to teach (six times) a course in Canadian Politics while stuyding for my Ph.D.; truly, this made extra-special my being a Canadian in America. 
 
 I strive to teach complex ideas in simple terms, whether evaluating a quantitative method or arguing theories of distributive justice. Moreover, I seek to tie class material to the lives of my students, such that coursework lends itself to the aims of their own lives. 
 
-At every corner, my classes incorporate original “games” to get students playing directly with the theoretical ideas at stake. This includes a game called Eschaton (a computer simulation, modelling the outcomes of student’s political decisions as they rule over their own country), hosting Model Parliaments, and debating what makes Canadian the lyrics of Gordon Lightfoot and Leonard Cohen -- amongst many other interactive ventures. 
+My classes incorporate original “games” to get students playing directly with the theoretical ideas at stake. This includes a game called Eschaton (a computer simulation, modelling the outcomes of student’s political decisions as they rule over their own country), hosting Model Parliaments, and debating what makes Canadian the lyrics of Gordon Lightfoot and Leonard Cohen -- amongst many other interactive ventures. 
 
 My syllabi:
 
