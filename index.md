@@ -64,7 +64,7 @@ Most broadly, I am interested in the roles that governments take in modern marke
 
 My work uses quantitative methods to assess theories of political economy; moreover, I engage my theoretical work with studies of optimal public policy and institutional design in order to consider what changes democracies might enact for improved operations. My most recent work seeks to identify causal effects using difference-in-difference and regression discontinuity designs. 
 
-You can find my plan for future research [here](Simmt_ResearchStatement_Calpoly_Policy_23.pdf). 
+You can find my plan for future research [here](Research_Plan_Simmt.pdf). 
 
 <br>
 
