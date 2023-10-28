@@ -44,9 +44,9 @@ Research Design
 
 Public Policy
 
-+ [Politics of Public Policy (IIT POLS306)](Comparative_Politics_Simmt_Fall18.pdf)
++ [Politics of Public Policy (IIT POLS306)](Simmt_Politics_of_PP_Syllabus.pdf)
 
-+ [Comparative Public Policy (IIT POLS313)](Comparative_Politics_Simmt_Fall18.pdf)
++ [Comparative Public Policy (IIT POLS313)](PS_313_Simmt.pdf)
 
 + [Politics of Development (CalPoly POLS328)](POLS328_Syllabus_Simmt_V2.pdf)
 
