@@ -40,13 +40,13 @@ Research Design
 
 + [Data Analysis and Visualization (CalPoly POLS361)](DRAFT_POLS361_CALPOLY_SYLLABUS.pdf)
 
-+ [Politics of Public Policy (IIT POLS)](Comparative_Politics_Simmt_Fall18.pdf)
++ [Fieldwork Methods (IIT SSCI387)](Comparative_Politics_Simmt_Fall18.pdf)
 
 Public Policy
 
-+ [Politics of Public Policy (IIT POLS)](Comparative_Politics_Simmt_Fall18.pdf)
++ [Politics of Public Policy (IIT POLS306)](Comparative_Politics_Simmt_Fall18.pdf)
 
-+ [Comparative Public Policy (IIT POLS)](Comparative_Politics_Simmt_Fall18.pdf)
++ [Comparative Public Policy (IIT POLS313)](Comparative_Politics_Simmt_Fall18.pdf)
 
 + [Politics of Development (CalPoly POLS328)](POLS328_Syllabus_Simmt_V2.pdf)
 
