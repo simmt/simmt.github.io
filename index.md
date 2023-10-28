@@ -2,11 +2,11 @@
 
 Thank you for visiting my website!
 
-My name is Kevin Simmt and I am a Lecturer in Political Science at CalPoly. I am a recent Ph.D. graduate (Ohio State University), where I focused upon the comparative political economy of public policy (specifically, taxation). My research design focuses upon quantitative methods. 
+My name is Kevin Simmt and I am a Lecturer in Political Science at CalPoly. I am a recent Ph.D. graduate (Ohio State University), where I focused upon the comparative political economy of public policy (specifically, taxation). My research designs concentrate upon quantitative methods. 
 
 My dissertation examines the regime-specific challenges that governments face when attempting to implement optimal tax policy. My work in political economy informs further research into public policy and the optimal design of democratic institutions.  
 
-In the classroom, I my teaching has focused upon Comparative Politics, Research Design (esp. Data Analysis & Visualization) and Canadian Politics. I strive to make material relevant to the lives of students; teach complex ideas simply; and create interactive tools by which to engage students with political science theories. 
+In the classroom, my teaching has focused upon four areas: (1) Research Desgin, including Data Analysis and Visualization (Using R); (2) Comparative Politics; (3) the Politics of Public Policy; and (4) Canadian Politics. I strive to make material relevant to the lives of students; teach complex ideas simply; and create interactive tools by which to engage students with political science theories. 
 
 I am a proud citizen of Alberta, Canada. Love is blind and so is my devotion to the Edmonton Oilers. (Given the team's playoff records during my lifetime, I am also proof that love can hurt.) 
 
