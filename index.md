@@ -22,11 +22,29 @@ I strive to teach complex ideas in simple terms, whether evaluating a quantitati
 
 My classes incorporate original “games” to get students playing directly with the theoretical ideas at stake. This includes a game called Eschaton (a computer simulation, modelling the outcomes of student’s political decisions as they rule over their own country), hosting Model Parliaments, and debating what makes Canadian the lyrics of Gordon Lightfoot and Leonard Cohen -- amongst many other interactive ventures. 
 
-My syllabi:
 
-+ [Canadian Politics (POLITSC 4270)](Canadian_Politics_Syllabus.pdf)
+A Selection of My Syllabi:
 
-+ [Comparative Politics (POLITSC 1200)](Comparative_Politics_Simmt_Fall18.pdf)
+Comparative Politics
+
++ [Canadian Politics (OSU POLITSC 4270)](Canadian_Politics_Syllabus.pdf)
+
++ [Comparative Politics (CalPoly POLS229)](Comparative_Politics_Simmt_Fall18.pdf)
+
+Research Design
+
++ [Research Design (CalPoly POLS359)](Comparative_Politics_Simmt_Fall18.pdf)
+
++ [Data Analysis and Visualization (CalPoly POLS361)](Comparative_Politics_Simmt_Fall18.pdf)
+
++ [Politics of Public Policy (IIT POLS)](Comparative_Politics_Simmt_Fall18.pdf)
+
+Public Policy
+
++ [Politics of Public Policy (IIT POLS)](Comparative_Politics_Simmt_Fall18.pdf)
+
++ [Comparative Public Policy (IIT POLS)](Comparative_Politics_Simmt_Fall18.pdf)
+
 
 My interactive course programming:
 
