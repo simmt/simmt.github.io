@@ -8,7 +8,7 @@ My dissertation examines the regime-specific challenges that governments face wh
 
 In the classroom, my teaching focuses upon four areas: (1) Research Desgin, including Data Analysis and Visualization (Using R); (2) Comparative Politics; (3) the Politics of Public Policy; and (4) Canadian Politics. I strive to make material relevant to the lives of students; teach complex ideas simply; and create interactive tools by which to engage students with political science theories. 
 
-Love is blind and so is my devotion to the Edmonton Oilers. (Given the team's playoff records during my lifetime, I am also proof that love can hurt.) 
+Many say 'love is blind' and so is my devotion to the Edmonton Oilers. (Given the team's playoff records during my lifetime, we can also say 'love hurts.') 
 
 You can view my [CV here](Simmt_Github_CV.pdf). 
 
