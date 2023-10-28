@@ -24,7 +24,7 @@ My classes incorporate original “games” to get students playing directly wit
 
 *A Selection of My Syllabi:*
 
-  Comparative Politics
+Comparative Politics
 
 + [Comparative Politics (CalPoly POLS229)](POLS229-COMPARATIVE_POLITICS-SIMMT.pdf)
 
@@ -32,7 +32,7 @@ My classes incorporate original “games” to get students playing directly wit
 
 + [Politics of Corruption (CalPoly POLS425)](POLS425_Syllabus_Simmt_V2.pdf)
 
-  Research Design
+Research Design
 
 + [Research Design (CalPoly POLS359)](POLS359_SyllabusV2_Simmt_AU23.pdf)
 
@@ -40,7 +40,7 @@ My classes incorporate original “games” to get students playing directly wit
 
 + [Fieldwork Methods (IIT SSCI387)](Fieldwork_Syllabus.pdf)
 
-  Public Policy
+Public Policy
 
 + [Politics of Public Policy (IIT POLS306)](PPP_Syllabus.pdf)
 
