@@ -16,7 +16,7 @@ You can view my [CV here](Simmt_Github_CV.pdf).
 
 ## Teaching
 
-In the classroom, I teach courses on the Canadian Political System and Comparative Politics. Additionally, I have tutored students in research design and quantitative methods; moreover, both topics loom large as components in all my courses.
+I have greatly enjoyed teaching a variety of courses in Comparative Politics, Public Policy and Research Design (incl. Data Analysis). I also had the privilege to teach (six times) a course in Canadian Politics while stuyding for my Ph.D. at the Ohio State University; truly, this made extra-special being a Canadian in America. 
 
 I strive to teach complex ideas in simple terms, whether evaluating a quantitative method or arguing theories of distributive justice. Moreover, I seek to tie class material to the lives of my students, such that coursework lends itself to the aims of their own lives. 
 
