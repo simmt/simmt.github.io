@@ -27,9 +27,12 @@ A Selection of My Syllabi:
 
 Comparative Politics
 
++ [Comparative Politics (CalPoly POLS229)](POLS229-COMPARATIVE_POLITICS-SIMMT.pdf)
+
 + [Canadian Politics (OSU POLS4270)](Canadian_Politics_Syllabus.pdf)
 
-+ [Comparative Politics (CalPoly POLS229)](POLS229-COMPARATIVE_POLITICS-SIMMT.pdf)
++ [Politics of Corruption (CalPoly POLS425)](POLS425_Syllabus_Simmt_V2.pdf)
+
 
 Research Design
 
@@ -45,6 +48,7 @@ Public Policy
 
 + [Comparative Public Policy (IIT POLS)](Comparative_Politics_Simmt_Fall18.pdf)
 
++ [Politics of Development (CalPoly POLS328)](POLS328_Syllabus_Simmt_V2.pdf)
 
 My interactive course programming:
 
