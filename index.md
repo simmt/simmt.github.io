@@ -29,7 +29,7 @@ Comparative Politics
 
 + [Canadian Politics (OSU POLITSC 4270)](Canadian_Politics_Syllabus.pdf)
 
-+ [Comparative Politics (CalPoly POLS229)](Comparative_Politics_Simmt_Fall18.pdf)
++ [Comparative Politics (CalPoly POLS229)](POLS229-COMPARATIVE_POLITICS-SIMMT.pdf)
 
 Research Design
 
