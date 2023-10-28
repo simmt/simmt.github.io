@@ -27,7 +27,7 @@ A Selection of My Syllabi:
 
 Comparative Politics
 
-+ [Canadian Politics (OSU POLITSC 4270)](Canadian_Politics_Syllabus.pdf)
++ [Canadian Politics (OSU POLS4270)](Canadian_Politics_Syllabus.pdf)
 
 + [Comparative Politics (CalPoly POLS229)](POLS229-COMPARATIVE_POLITICS-SIMMT.pdf)
 
