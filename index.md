@@ -22,8 +22,7 @@ I strive to teach complex ideas in simple terms, whether evaluating a quantitati
 
 My classes incorporate original “games” to get students playing directly with the theoretical ideas at stake. This includes a game called Eschaton (a computer simulation, modelling the outcomes of student’s political decisions as they rule over their own country), hosting Model Parliaments, and debating what makes Canadian the lyrics of Gordon Lightfoot and Leonard Cohen -- amongst many other interactive ventures. 
 
-
-A Selection of My Syllabi:
+*A Selection of My Syllabi:*
 
 Comparative Politics
 
@@ -33,20 +32,19 @@ Comparative Politics
 
 + [Politics of Corruption (CalPoly POLS425)](POLS425_Syllabus_Simmt_V2.pdf)
 
-
 Research Design
 
 + [Research Design (CalPoly POLS359)](POLS359_SyllabusV2_Simmt_AU23.pdf)
 
 + [Data Analysis and Visualization (CalPoly POLS361)](DRAFT_POLS361_CALPOLY_SYLLABUS.pdf)
 
-+ [Fieldwork Methods (IIT SSCI387)](Comparative_Politics_Simmt_Fall18.pdf)
++ [Fieldwork Methods (IIT SSCI387)](Fieldwork_Syllabus.pdf)
 
 Public Policy
 
-+ [Politics of Public Policy (IIT POLS306)](Simmt_Politics_of_PP_Syllabus.pdf)
++ [Politics of Public Policy (IIT POLS306)](PPP_Syllabus.pdf)
 
-+ [Comparative Public Policy (IIT POLS313)](PS_313_Simmt.pdf)
++ [Comparative Public Policy (IIT POLS313)](CPP_Syllabus.pdf)
 
 + [Politics of Development (CalPoly POLS328)](POLS328_Syllabus_Simmt_V2.pdf)
 
