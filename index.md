@@ -33,7 +33,7 @@ Comparative Politics
 
 Research Design
 
-+ [Research Design (CalPoly POLS359)](Comparative_Politics_Simmt_Fall18.pdf)
++ [Research Design (CalPoly POLS359)](POLS359_SyllabusV2_Simmt_AU23.pdf)
 
 + [Data Analysis and Visualization (CalPoly POLS361)](Comparative_Politics_Simmt_Fall18.pdf)
 
