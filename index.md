@@ -76,13 +76,13 @@ Oftentimes, the political economy of taxation focuses on conflicts between incom
 
 In my dissertation I write a series of papers focusing on the regime-specific challenges governments face when producing and implementing tax policy. In these papers I conceptually draw on selectorate theory and quantitatively estimate the causal effect of regime type on various aspects of tax policy through regressiondiscontinuity and difference-in-difference designs built around exogenous shocks to existing regimes.
 
-+ [Thesis Chapter](Simmt_Writting_Sample.pdf). *A Theory of Taxation: the Elasticity Wars & Democracy's Informality Trap*
++ [Thesis Chapter 2, Pg. 57-109](Simmt,K_Theory_of_Taxation_Dissertation.pdf). *A Theory of Taxation: the Elasticity Wars & Democracy's Informality Trap*
 
 I argue that optimal tax-mix results from “planned inefficiency,” whereby governments intentionally tax the economy’s most “inelastic” elements (i.e., economic behaviours difficult to change). I then use selectorate theory to explain why democracy’s struggle to implement efficient tax policy as they seek to appease broad swaths of the public with taxes on those behaviours for which the coalition’s members are “elastic” (i.e., economic behaviours easily changed). 
 
 I test my theory with an international dataset on taxation and imputations of informality; I find democracies use high income taxation in exactly those situations where it is least efficient: where the informal sector makes up the bulk of a country’s economic production and employment. 
 
-+ [Thesis Chapter](Simmt_Writting_Sample_I.pdf). *The Efficiency of Inefficient State-Owned Enterprise: Comparing Ontario & Alberta’s Approaches to Liquor Retail*
++ [M.A. Thesis](Simmt_Writting_Sample_I.pdf). *The Efficiency of Inefficient State-Owned Enterprise: Comparing Ontario & Alberta’s Approaches to Liquor Retail*
 
 Herein I explore the seeming paradox that the government might make a part of the economy more inefficient so as to make the economy as a whole more efficient. I develop a theory of planned inefficiency in order to explain how governments might do well to tax inelastic sectors of the economy (i.e., those transactions that are relatively unaffected by higher tax rates), thereby heightening their inefficiency, so as to relieve tax burden upon sectors that react more elastically (i.e., those transactions that would shrink drastically upon higher taxation). I coined the strategy’s name “planned inefficiency.” 
 
@@ -100,13 +100,3 @@ The opening chapter establishes a taxonomy of the ideas required to underlay any
 In 1960, the Government of Alberta established a rat-patrol zone, encompassing all land within 17 miles of the Saskatchewan border, unto its northern cut-off (set at Cold Lake). Using pollingstation data from provincial and federal elections, I use a Regression Discontinuity Design (RDD) to consider how citizen interaction with civil servants effects perceptions of government competence.
 
 I am currently awaiting time in Alberta to build datasets from archival data. For instance, using historical Elections Alberta documents containing data at the polling-station level, I can explore how direct exposure to the Alberta rat-elimination program in the 1960s (i.e., those voters living within 17 miles of the Saskatchewan border) altered voter’s attitudes towards government competence and, potentially, spending (a regression discontinuity design).
-
-+ Working Paper. *A Theory of Radical Kindness: Building a Concept with Measurable Implications*
-
-Theories that exist beyond measurement often struggle to gain prominence in the social sciences. After all, without variables to measure, how can a theory be tested? I note that theories of radical kindness have received such treatment, in addition to prejudice of its blind optimism.
-
-Crucially, radical kindness is just kindness unless it brings about the change required for a just society to arise. I define a proxy variable of radical kindness that measures the dollar effect of decency in redressing “institutional gaps.” An institutional gap occurs when establishing a set of rules to fix one problem requires opening vulnerability to yet another. Were people’s decency to “cover” the gap, we can measure the dollar effect.
-
-Through my redefinition, I reposition theories of radical kindness such that (i) they are not blindly optimistic, but merely point to where institutions will not be able to get us out of our problems; and (ii) becomes less "demanding" as a dichotomous measure (i.e., that our society of sinners must become saints), but based more in a variable of gradation (e.g., the dollar value of a society becoming marginally more “kind”). The paper illustrates its theory with an example of an “institutional gap” and its costs.
-
-International patent law is used to incentivize innovation, but at the cost of enabling monopolist pricing, which endows the economy with yet other inefficiencies. In a scenario of radical kindness, monopolists would price at a competitive market level (where marginal returns are zero), based on a sense of decency. Here a measurable dollar value might be derived of the effects of radical kindness, via the dollar value of reduced inefficiencies occurring in the economy as a result.
