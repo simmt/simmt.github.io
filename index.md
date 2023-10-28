@@ -2,15 +2,15 @@
 
 Thank you for visiting my website!
 
-My name is Kevin Simmt and I am a Ph.D. graduate in Political Science at The Ohio State University (OSU), focused upon the intersection of comparative political economy, public economics and public policy. In terms of research design, I specialize on quantitative methods. 
+My name is Kevin Simmt and I am a Lecturer in Political Science at CalPoly. I am a recent Ph.D. graduate (Ohio State University), where I focused upon the comparative political economy of public policy (specifically, taxation). My research design focuses upon quantitative methods. 
 
-My dissertation examines the regime-specific challenges that governments face when attempting to implement optimal tax policy. My political economy research informs further research into public policy and the optimal design of democratic institutions.  
+My dissertation examines the regime-specific challenges that governments face when attempting to implement optimal tax policy. My work in political economy informs further research into public policy and the optimal design of democratic institutions.  
 
-In the classroom, I teach Canadian and Comparative Politics. I strive to make material relevant to the lives of students; teach complex ideas simply; and create interactive tools by which to engage students with political science theories. 
+In the classroom, I my teaching has focused upon Comparative Politics, Research Design (esp. Data Analysis & Visualization) and Canadian Politics. I strive to make material relevant to the lives of students; teach complex ideas simply; and create interactive tools by which to engage students with political science theories. 
 
-I am a proud citizen of Alberta, Canada. Outside of Political Science, I am interested in literature, hockey and bourbon. Love is blind and so is my devotion to the Edmonton Oilers. Of late, I have been exploring the small towns and countryside of the American Midwest. 
+I am a proud citizen of Alberta, Canada. Love is blind and so is my devotion to the Edmonton Oilers. (Given the team's playoff records during my lifetime, I am also proof that love can hurt.) 
 
-You can view my [resume](Simmt_Github_Resume.pdf) or [CV](Simmt_CV_Git.pdf).
+You can view my [resume](Simmt_Github_Resume.pdf) or [CV](Simmt_CV_Git.pdf). 
 
 <br>
 
