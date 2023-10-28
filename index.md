@@ -99,6 +99,6 @@ The opening chapter establishes a taxonomy of the ideas required to underlay any
 
 + Working Paper. *Ratless Alberta: a Natural Experiment on the Construction of Popular Trust in Government*
 
-In 1960, the Government of Alberta established a rat-patrol zone, encompassing all land within 17 miles of the Saskatchewan border, unto its northern cut-off (set at Cold Lake). Using pollingstation data from provincial and federal elections, I use a Regression Discontinuity Design (RDD) to consider how citizen interaction with civil servants effects perceptions of government competence.
+In 1960, the Government of Alberta established a rat-patrol zone, encompassing all land within 17 miles of the Saskatchewan border, unto its northern cut-off (set at Cold Lake). Using polling station data from provincial and federal elections, I will use a Regression Discontinuity Design (RDD) to consider how citizen interaction with civil servants effects perceptions of government competence.
 
 I am currently awaiting time in Alberta to build datasets from archival data. For instance, using historical Elections Alberta documents containing data at the polling-station level, I can explore how direct exposure to the Alberta rat-elimination program in the 1960s (i.e., those voters living within 17 miles of the Saskatchewan border) altered voter’s attitudes towards government competence and, potentially, spending (a regression discontinuity design).
